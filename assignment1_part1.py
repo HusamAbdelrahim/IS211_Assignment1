@@ -21,5 +21,6 @@ def test_list_divide():
         raise ListDivideException("A test in test_list_divide failed.")
 
 
+# run prog
 if __name__ == "__main__":
     test_list_divide()
